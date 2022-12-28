@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepare": "yarn build",
     "build": "tsc"
   },
   "repository": {
