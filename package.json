@@ -1,0 +1,23 @@
+{
+  "name": "npm-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriyosh/npm-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "NOLICENSE",
+  "bugs": {
+    "url": "https://github.com/kuriyosh/npm-sandbox/issues"
+  },
+  "homepage": "https://github.com/kuriyosh/npm-sandbox#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
