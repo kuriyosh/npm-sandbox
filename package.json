@@ -22,5 +22,8 @@
   "homepage": "https://github.com/kuriyosh/npm-sandbox#readme",
   "devDependencies": {
     "typescript": "^4.9.4"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
